@@ -9,7 +9,7 @@ Kangheng Liu
    Follow instructions on this page: https://docs.github.com/en/enterprise-server@3.4/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens#creating-a-personal-access-token
 
     Use the **classic** token
-   ![Alt text](<Screenshot 2023-08-31 at 20.17.12.png>)
+   ![Alt text](<images/Screenshot 2023-08-31 at 20.17.12.png>)
 1. Go to your directory of choice to store the project files.
    
    Example: `~/Documents/DSAN5700/Homework1`
@@ -21,4 +21,4 @@ Kangheng Liu
 5. Commit your latest codes to repo:
    Write down your messages about your latest changes, then click commit.
    After commit, push the contents to repo by clicking the same butoon again.
-   ![Alt text](<Screenshot 2023-09-02 at 11.11.01.png>)
+   ![Alt text](<images/Screenshot 2023-09-02 at 11.11.01.png>)
